@@ -36,7 +36,7 @@ class StudyContentScreen extends ConsumerWidget {
             // Slaytlar Tab
             _buildTopicsTab(context, ref, topicsAsync),
             // Çıkmış Sorular Tab
-            _buildQuestionsTab(context),
+            _buildQuestionsTab(context, ref),
           ],
         ),
       ),
@@ -126,20 +126,134 @@ class StudyContentScreen extends ConsumerWidget {
     );
   }
 
-  Widget _buildQuestionsTab(BuildContext context) {
-    // TODO: Implement questions tab with past exams
-    return Center(
-      child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          Icon(Icons.quiz, size: 64, color: AppTheme.textSecondary),
-          const SizedBox(height: 16),
-          Text(
-            'Çıkmış sorular yakında eklenecek',
-            style: TextStyle(color: AppTheme.textSecondary, fontSize: 16),
-          ),
-        ],
+  Widget _buildQuestionsTab(BuildContext context, WidgetRef ref) {
+    final questionsAsync = ref.watch(departmentQuestionsProvider(department));
+    
+    return questionsAsync.when(
+      loading: () => const Center(child: CircularProgressIndicator()),
+      error: (error, stack) => Center(
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Icon(Icons.error_outline, size: 64, color: Colors.red.shade300),
+            const SizedBox(height: 16),
+            Text(
+              'Sorular yüklenemedi',
+              style: TextStyle(color: AppTheme.textSecondary, fontSize: 16),
+            ),
+            const SizedBox(height: 8),
+            ElevatedButton(
+              onPressed: () => ref.refresh(departmentQuestionsProvider(department)),
+              child: const Text('Tekrar Dene'),
+            ),
+          ],
+        ),
       ),
+      data: (questions) {
+        if (questions.isEmpty) {
+          return Center(
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                Icon(Icons.quiz, size: 64, color: AppTheme.textSecondary),
+                const SizedBox(height: 16),
+                Text(
+                  'Henüz çıkmış soru eklenmedi',
+                  style: TextStyle(color: AppTheme.textSecondary, fontSize: 16),
+                ),
+              ],
+            ),
+          );
+        }
+
+        return ListView.builder(
+          padding: const EdgeInsets.all(16),
+          itemCount: questions.length,
+          itemBuilder: (context, index) {
+            final question = questions[index];
+            return Card(
+              color: AppTheme.darkCard,
+              margin: const EdgeInsets.only(bottom: 12),
+              child: Padding(
+                padding: const EdgeInsets.all(16),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    // Topic tag
+                    if (question.topic != null)
+                      Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                        margin: const EdgeInsets.only(bottom: 8),
+                        decoration: BoxDecoration(
+                          color: AppTheme.primaryColor.withAlpha(50),
+                          borderRadius: BorderRadius.circular(4),
+                        ),
+                        child: Text(
+                          question.topic!,
+                          style: TextStyle(
+                            color: AppTheme.primaryColor,
+                            fontSize: 12,
+                            fontWeight: FontWeight.w500,
+                          ),
+                        ),
+                      ),
+                    // Question text
+                    Text(
+                      question.questionText,
+                      style: const TextStyle(
+                        fontSize: 16,
+                        fontWeight: FontWeight.w600,
+                      ),
+                    ),
+                    const SizedBox(height: 12),
+                    // Correct answer
+                    Container(
+                      padding: const EdgeInsets.all(12),
+                      decoration: BoxDecoration(
+                        color: AppTheme.accentGreen.withAlpha(30),
+                        borderRadius: BorderRadius.circular(8),
+                        border: Border.all(color: AppTheme.accentGreen, width: 1),
+                      ),
+                      child: Row(
+                        children: [
+                          Icon(Icons.check_circle, color: AppTheme.accentGreen, size: 20),
+                          const SizedBox(width: 8),
+                          Expanded(
+                            child: Text(
+                              question.correctAnswer,
+                              style: TextStyle(
+                                color: AppTheme.accentGreen,
+                                fontWeight: FontWeight.w500,
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                    // Go to slide button
+                    if (question.slideId != null) ...[
+                      const SizedBox(height: 12),
+                      SizedBox(
+                        width: double.infinity,
+                        child: OutlinedButton.icon(
+                          onPressed: () {
+                            context.push('/slide/${question.slideId}');
+                          },
+                          icon: const Icon(Icons.slideshow, size: 18),
+                          label: const Text('İlgili Slayta Git'),
+                          style: OutlinedButton.styleFrom(
+                            side: BorderSide(color: AppTheme.primaryColor),
+                          ),
+                        ),
+                      ),
+                    ],
+                  ],
+                ),
+              ),
+            );
+          },
+        );
+      },
     );
   }
 

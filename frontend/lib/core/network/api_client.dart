@@ -172,4 +172,9 @@ class ApiService {
     final response = await _dio.get('/slides/$slideId/questions');
     return response.data;
   }
+  
+  Future<Map<String, dynamic>> getDepartmentQuestions(String department) async {
+    final response = await _dio.get('/slides/department/$department/questions');
+    return response.data;
+  }
 }

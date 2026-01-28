@@ -98,6 +98,31 @@ async def get_slide(slide_id: int, db: AsyncSession = Depends(get_db)):
     
     return SlideResponse.model_validate(slide)
 
+@router.get("/department/{department}/questions")
+async def get_department_questions(department: str, db: AsyncSession = Depends(get_db)):
+    """Get all questions for a department - for past exams tab"""
+    result = await db.execute(
+        select(Question).filter(Question.department == department)
+    )
+    questions = result.scalars().all()
+    
+    return {
+        "department": department,
+        "questions": [
+            {
+                "id": q.id,
+                "question_text": q.question_text,
+                "correct_answer": q.correct_answer,
+                "distractors": q.distractors,
+                "topic": q.topic,
+                "slide_id": q.slide_id,
+                "is_past_paper": q.is_past_paper,
+                "explanation": q.explanation,
+            } for q in questions
+        ],
+        "total": len(questions)
+    }
+
 @router.get("/{slide_id}/questions")
 async def get_slide_questions(slide_id: int, db: AsyncSession = Depends(get_db)):
     """Get questions related to a specific slide"""

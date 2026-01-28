@@ -130,6 +130,20 @@ final topicSlidesProvider = FutureProvider.family<List<Slide>, ({String departme
   }
 });
 
+/// Department questions provider - for past exams tab
+final departmentQuestionsProvider = FutureProvider.family<List<SlideQuestion>, String>((ref, department) async {
+  try {
+    final apiService = ref.read(apiServiceProvider);
+    final response = await apiService.getDepartmentQuestions(department);
+    final questions = (response['questions'] as List)
+        .map((q) => SlideQuestion.fromJson(q))
+        .toList();
+    return questions;
+  } catch (e) {
+    return [];
+  }
+});
+
 /// Department content provider (legacy - for backward compatibility)
 final departmentContentProvider = StateNotifierProvider<DepartmentContentNotifier, Map<String, List<StudyContent>>>((ref) {
   return DepartmentContentNotifier();
