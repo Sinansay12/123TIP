@@ -1,0 +1,22 @@
+# Render deployment configuration
+# https://render.com/docs/blueprint-spec
+
+services:
+  - type: web
+    name: 123tip-backend
+    runtime: python
+    region: frankfurt  # EU region for Turkey
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.11"
+      - key: DATABASE_URL
+        value: sqlite+aiosqlite:///./medical_app.db
+      - key: SECRET_KEY
+        generateValue: true
+      - key: GEMINI_API_KEY
+        sync: false  # Set manually in Render dashboard
+    healthCheckPath: /health
+    autoDeploy: true
