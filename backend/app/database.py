@@ -35,8 +35,13 @@ async def get_db() -> AsyncSession:
 
 
 async def init_db():
-    """Initialize database tables."""
+    """Initialize database tables and seed with sample data."""
     async with engine.begin() as conn:
         # Import models to register them with Base
         from app import models  # noqa
         await conn.run_sync(Base.metadata.create_all)
+    
+    # Seed database with sample data if empty
+    from app.seed_data import seed_database
+    async with async_session_maker() as session:
+        await seed_database(session)
