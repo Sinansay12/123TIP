@@ -5,7 +5,7 @@ import 'package:dio/dio.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
 
-const String baseUrl = 'https://123tip-backend.onrender.com/api/v1';
+const String baseUrl = 'https://one23tip-backend.onrender.com/api/v1';
 
 /// Secure storage provider
 final secureStorageProvider = Provider<FlutterSecureStorage>((ref) {
