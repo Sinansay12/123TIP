@@ -5,7 +5,7 @@ Called during application startup to populate empty database.
 """
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy import select, func
-from app.models import Slide, SlideQuestion
+from app.models import Slide, Question
 
 
 # Sample departments and topics
@@ -147,12 +147,17 @@ async def seed_database(db: AsyncSession):
         key = f"{q_data['department']}|{q_data['topic']}"
         slide_id = slide_map.get(key)
         
-        question = SlideQuestion(
+        # Get distractors (options without correct answer)
+        distractors = [opt for opt in q_data["options"] if opt != q_data["correct_answer"]]
+        
+        question = Question(
             slide_id=slide_id,
+            department=q_data["department"],
+            topic=q_data["topic"],
             question_text=q_data["question_text"],
             correct_answer=q_data["correct_answer"],
-            options=q_data["options"],
-            difficulty=q_data["difficulty"],
+            distractors=distractors,
+            is_past_paper=False,
         )
         db.add(question)
     
