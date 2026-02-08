@@ -90,7 +90,7 @@ class _RegisterScreenState extends ConsumerState<RegisterScreen> {
         _passwordController.text,
       );
       
-      ref.read(authTokenProvider.notifier).state = loginResponse['access_token'];
+      await ref.read(authProvider.notifier).setToken(loginResponse['access_token']);
       
       if (mounted) {
         context.go(AppRoutes.dashboard);

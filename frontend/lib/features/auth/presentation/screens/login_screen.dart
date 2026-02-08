@@ -45,8 +45,8 @@ class _LoginScreenState extends ConsumerState<LoginScreen> {
         _passwordController.text,
       );
 
-      // Store token
-      ref.read(authTokenProvider.notifier).state = response['access_token'];
+      // Store token with persistence
+      await ref.read(authProvider.notifier).setToken(response['access_token']);
 
       if (mounted) {
         context.go(AppRoutes.dashboard);

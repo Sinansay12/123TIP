@@ -5,7 +5,7 @@ from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.database import init_db
-from app.routers import auth, documents, questions, exams, courses, groups, slides
+from app.routers import auth, documents, questions, exams, courses, groups, slides, admin
 
 
 @asynccontextmanager
@@ -50,6 +50,7 @@ app.include_router(questions.router, prefix="/api/v1")
 app.include_router(exams.router, prefix="/api/v1")
 app.include_router(groups.router, prefix="/api/v1")
 app.include_router(slides.router, prefix="/api/v1")
+app.include_router(admin.router, prefix="/api/v1")
 
 
 @app.get("/")

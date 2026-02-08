@@ -6,14 +6,84 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
 
 const String baseUrl = 'https://one23tip-backend.onrender.com/api/v1';
+const String _tokenKey = 'auth_token';
 
 /// Secure storage provider
 final secureStorageProvider = Provider<FlutterSecureStorage>((ref) {
   return const FlutterSecureStorage();
 });
 
-/// Auth token provider
-final authTokenProvider = StateProvider<String?>((ref) => null);
+/// Auth State
+class AuthState {
+  final String? token;
+  final bool isLoading;
+  final bool isInitialized;
+
+  const AuthState({
+    this.token,
+    this.isLoading = false,
+    this.isInitialized = false,
+  });
+
+  bool get isAuthenticated => token != null;
+
+  AuthState copyWith({
+    String? token,
+    bool? isLoading,
+    bool? isInitialized,
+  }) {
+    return AuthState(
+      token: token ?? this.token,
+      isLoading: isLoading ?? this.isLoading,
+      isInitialized: isInitialized ?? this.isInitialized,
+    );
+  }
+}
+
+/// Auth Notifier with persistence
+class AuthNotifier extends StateNotifier<AuthState> {
+  final FlutterSecureStorage _storage;
+
+  AuthNotifier(this._storage) : super(const AuthState());
+
+  /// Initialize - load token from storage
+  Future<void> initialize() async {
+    state = state.copyWith(isLoading: true);
+    try {
+      final token = await _storage.read(key: _tokenKey);
+      state = AuthState(
+        token: token,
+        isLoading: false,
+        isInitialized: true,
+      );
+    } catch (e) {
+      state = const AuthState(isLoading: false, isInitialized: true);
+    }
+  }
+
+  /// Set token and persist
+  Future<void> setToken(String token) async {
+    await _storage.write(key: _tokenKey, value: token);
+    state = state.copyWith(token: token);
+  }
+
+  /// Clear token (logout)
+  Future<void> logout() async {
+    await _storage.delete(key: _tokenKey);
+    state = const AuthState(isInitialized: true);
+  }
+}
+
+/// Auth provider
+final authProvider = StateNotifierProvider<AuthNotifier, AuthState>((ref) {
+  final storage = ref.watch(secureStorageProvider);
+  return AuthNotifier(storage);
+});
+
+/// Legacy auth token provider (for backward compatibility)
+final authTokenProvider = Provider<String?>((ref) {
+  return ref.watch(authProvider).token;
+});
 
 /// Dio client provider with interceptors
 final dioProvider = Provider<Dio>((ref) {
@@ -38,10 +108,8 @@ final dioProvider = Provider<Dio>((ref) {
         handler.next(options);
       },
       onError: (error, handler) {
-        if (error.response?.statusCode == 401) {
-          // Handle token expiration
-          ref.read(authTokenProvider.notifier).state = null;
-        }
+        // Don't auto-logout on 401 - backend might be down or returning errors
+        // Let the individual screens handle auth errors appropriately
         handler.next(error);
       },
     ),

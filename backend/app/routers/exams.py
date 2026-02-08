@@ -85,8 +85,8 @@ async def list_exams(
 
 @router.get("/daily", response_model=DailyMixResponse)
 async def get_daily_mix(
-    current_user: User = Depends(get_current_user),
-    db: AsyncSession = Depends(get_db)
+    db: AsyncSession = Depends(get_db),
+    current_user: User = Depends(get_current_user)
 ):
     """
     Get the daily question mix based on the 7-Day Logic.
@@ -97,7 +97,10 @@ async def get_daily_mix(
     - If exam <= 7 days: Cramming (focus course, medium-hard, past papers unlocked)
     """
     exam_service = ExamLogicService(db)
-    result = await exam_service.get_daily_questions(current_user.id)
+    
+    # Use user_id if authenticated, otherwise get general mix
+    user_id = current_user.id if current_user else None
+    result = await exam_service.get_daily_questions(user_id)
     
     questions = [prepare_question_response(q) for q in result.get("questions", [])]
     
@@ -105,7 +108,8 @@ async def get_daily_mix(
         mode=result.get("mode", "free_study"),
         days_remaining=result.get("days_remaining", -1),
         questions=questions,
-        past_papers_unlocked=result.get("past_papers_unlocked", False)
+        past_papers_unlocked=result.get("past_papers_unlocked", False),
+        exam_name=result.get("exam_name")
     )
 
 
