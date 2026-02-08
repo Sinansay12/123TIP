@@ -3,9 +3,11 @@ Seed Data for Medical Study App
 This module provides initial sample data for the application.
 Called during application startup to populate empty database.
 """
+import os
+import json
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy import select, func
-from app.models import Slide, Question
+from app.models import Slide, Question, DifficultyLevel, QuestionType
 
 
 # Sample departments and topics
@@ -119,39 +121,136 @@ async def seed_database(db: AsyncSession):
     result = await db.execute(select(func.count(Slide.id)))
     slide_count = result.scalar()
     
-    if slide_count > 0:
-        print(f"Database already has {slide_count} slides. Skipping seed.")
+    if slide_count == 0:
+        print("Seeding database with sample slides...")
+        
+        # Add slides
+        slide_map = {}  # To track slide IDs for questions
+        for slide_data in SAMPLE_SLIDES:
+            slide = Slide(
+                department=slide_data["department"],
+                topic=slide_data["topic"],
+                page_number=slide_data["page_number"],
+                title=slide_data["title"],
+                content=slide_data["content"],
+                professor=slide_data.get("professor"),
+            )
+            db.add(slide)
+            await db.flush()
+            # Store for question linking
+            key = f"{slide_data['department']}|{slide_data['topic']}"
+            slide_map[key] = slide.id
+        
+        await db.commit()
+        print(f"Seeded {len(SAMPLE_SLIDES)} slides.")
+    else:
+        print(f"Database already has {slide_count} slides. Skipping slide seed.")
+    
+    # Load questions from JSON file
+    await seed_questions_from_json(db)
+
+
+async def seed_questions_from_json(db: AsyncSession):
+    """Seed questions from the exported JSON file."""
+    # Check if questions already exist
+    result = await db.execute(select(func.count(Question.id)))
+    question_count = result.scalar()
+    
+    if question_count > 10:  # More than sample questions
+        print(f"Database already has {question_count} questions. Skipping question seed.")
         return
     
-    print("Seeding database with sample data...")
+    # Find the JSON file - check multiple locations
+    possible_paths = [
+        os.path.join(os.path.dirname(os.path.dirname(__file__)), "scripts", "questions_export.json"),
+        os.path.join(os.path.dirname(os.path.dirname(__file__)), "questions_export.json"),
+        os.path.join(os.path.dirname(__file__), "questions_export.json"),
+        "./scripts/questions_export.json",
+        "./questions_export.json",
+    ]
     
-    # Add slides
-    slide_map = {}  # To track slide IDs for questions
-    for slide_data in SAMPLE_SLIDES:
-        slide = Slide(
-            department=slide_data["department"],
-            topic=slide_data["topic"],
-            page_number=slide_data["page_number"],
-            title=slide_data["title"],
-            content=slide_data["content"],
-            professor=slide_data.get("professor"),
-        )
-        db.add(slide)
-        await db.flush()
-        # Store for question linking
-        key = f"{slide_data['department']}|{slide_data['topic']}"
-        slide_map[key] = slide.id
+    json_path = None
+    for path in possible_paths:
+        if os.path.exists(path):
+            json_path = path
+            break
     
-    # Add questions
+    if not json_path:
+        print("questions_export.json not found. Seeding sample questions only...")
+        # Seed sample questions if no JSON found
+        await seed_sample_questions(db)
+        return
+    
+    print(f"Loading questions from {json_path}...")
+    
+    try:
+        with open(json_path, 'r', encoding='utf-8') as f:
+            questions_data = json.load(f)
+        
+        imported_count = 0
+        for q_data in questions_data:
+            # Check if question already exists (by text)
+            existing = await db.execute(
+                select(Question).where(Question.question_text == q_data["question_text"])
+            )
+            if existing.scalar():
+                continue
+            
+            # Map difficulty
+            difficulty = DifficultyLevel.MEDIUM
+            if q_data.get("difficulty"):
+                diff_str = q_data["difficulty"].upper()
+                if diff_str == "EASY":
+                    difficulty = DifficultyLevel.EASY
+                elif diff_str == "HARD":
+                    difficulty = DifficultyLevel.HARD
+            
+            # Map question type
+            question_type = QuestionType.PAST_PAPER
+            if q_data.get("question_type"):
+                type_str = q_data["question_type"].upper()
+                if type_str == "GENERATED":
+                    question_type = QuestionType.GENERATED
+            
+            question = Question(
+                slide_id=q_data.get("slide_id"),
+                department=q_data.get("department"),
+                topic=q_data.get("topic"),
+                question_text=q_data["question_text"],
+                correct_answer=q_data["correct_answer"],
+                distractors=q_data.get("distractors", []),
+                explanation=q_data.get("explanation"),
+                difficulty=difficulty,
+                question_type=question_type,
+                is_past_paper=bool(q_data.get("is_past_paper", False)),
+                source_file=q_data.get("source_file"),
+            )
+            db.add(question)
+            imported_count += 1
+        
+        await db.commit()
+        print(f"Successfully imported {imported_count} questions from JSON!")
+        
+    except Exception as e:
+        print(f"Error loading questions from JSON: {e}")
+        await db.rollback()
+        # Fall back to sample questions
+        await seed_sample_questions(db)
+
+
+async def seed_sample_questions(db: AsyncSession):
+    """Seed sample questions for basic functionality."""
     for q_data in SAMPLE_QUESTIONS:
-        key = f"{q_data['department']}|{q_data['topic']}"
-        slide_id = slide_map.get(key)
+        existing = await db.execute(
+            select(Question).where(Question.question_text == q_data["question_text"])
+        )
+        if existing.scalar():
+            continue
         
         # Get distractors (options without correct answer)
         distractors = [opt for opt in q_data["options"] if opt != q_data["correct_answer"]]
         
         question = Question(
-            slide_id=slide_id,
             department=q_data["department"],
             topic=q_data["topic"],
             question_text=q_data["question_text"],
@@ -162,4 +261,4 @@ async def seed_database(db: AsyncSession):
         db.add(question)
     
     await db.commit()
-    print(f"Seeded {len(SAMPLE_SLIDES)} slides and {len(SAMPLE_QUESTIONS)} questions.")
+    print(f"Seeded {len(SAMPLE_QUESTIONS)} sample questions.")

@@ -1,0 +1,1996 @@
+[
+  {
+    "id": 1,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "Mediastinitle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "correct_answer": "Cerrahi drenaj tek başına yeterlidir.",
+    "distractors": [
+      "Sepsis bulguları ile birliktedir",
+      "En sık nedeni özofagus perforasyonudur",
+      "Diş abseleri sonucu da gelişebilir",
+      "Neden özofagus perforasyonu ise ilk 24 saatte cerrahi tamir yapılır"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Ekim 2020 sınav soruları.txt"
+  },
+  {
+    "id": 2,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "E\n\nBronkojenik kist’in özeliklerinden aşağıdakilerden hangisi değildir?",
+    "correct_answer": "Düzensiz sınırlı solid lezyonlardır",
+    "distractors": [
+      "En sık subkarinada yerleşir",
+      "Bası semptomları oluşturabilir",
+      "İntraparankimal yerleşebilir",
+      "Tanıda sıklıkla bilgisayarlı akciğer tomografisi yeterlidir"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Ekim 2020 sınav soruları.txt"
+  },
+  {
+    "id": 3,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "D\n\nPnömotoraks tedavisinde hangisi temel ilke değildir ?",
+    "correct_answer": "O2 satürasyonunun %90’nın üstünde tutulması",
+    "distractors": [
+      "Nükslerin önlenmesi",
+      "Akciğerin tam ekspansiyonunun sağlanması",
+      "Semptomların ortadan kaldırılması",
+      "Komplikasyonların önlenmesi"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Ekim 2020 sınav soruları.txt"
+  },
+  {
+    "id": 4,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "D\n\nTorasik Outlet Sendromun (TOS) da cerrahi tedavi endikasyonları içinde aşağıdakilerden hangisi yer almaz?",
+    "correct_answer": "Ulnar sinir iletim hızının 70m/sn üstünde olması",
+    "distractors": [
+      "Aksilller subklavian arterde  daralma ( bası)",
+      "Aksilller subklavian vende tromboz",
+      "Konservatif tedaviyi tolere edemeyecek kadar şiddetli semptomlar",
+      "Yeterli FTR’na rağmen,  3 ayda fazla süredir semptomların devam etmesi veya artması"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Ekim 2020 sınav soruları.txt"
+  },
+  {
+    "id": 5,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "E\n\n\nAşağıdakilerden hangisi yanlıştır ?",
+    "correct_answer": "Torasentezde parietal plevradan geçilmez",
+    "distractors": [
+      "Plevra akciğerin şeklini verir",
+      "Viseral plevranın ağrı iletimi yoktur",
+      "Plevra yaprakları akciğerin enerji kaybını azaltır",
+      "Viseral plevra akciğeri kaplar"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Ekim 2020 sınav soruları.txt"
+  },
+  {
+    "id": 6,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "D\n\n\nAşağıdaki patolojilerden hangisi anterosüperior mediastende genellikle görülmez?",
+    "correct_answer": "Nörojenik tümör",
+    "distractors": [
+      "Retrosternal-intratorasik goitre",
+      "Germ hücreli tümörler",
+      "Lenfoma",
+      "Timoma (benign-malign)"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 sınav soruları.txt"
+  },
+  {
+    "id": 7,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "D\n\nVATS hangi durumda uygulanabilir ?",
+    "correct_answer": "Hiçbiri",
+    "distractors": [
+      "Tek akciğer entübasyonu yapılabilen hastada",
+      "Pnömonektomili hastada",
+      "Plevra yaprakları yapışık olan hastalarda",
+      "Solunum kapasitesi çok düşük hastalarda"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 sınav soruları.txt"
+  },
+  {
+    "id": 8,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "E\n\nPrimer spontan pnömotoraksın sebebi aşağıdakilerden hangisidir?",
+    "correct_answer": "Blep’in  rüptüre olması",
+    "distractors": [
+      "AİDS",
+      "Bıçaklanma",
+      "Tbc",
+      "Torasentez"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 sınav soruları.txt"
+  },
+  {
+    "id": 9,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "A\n\n\nAşağıdakilerden hangisi yanlıştır ?",
+    "correct_answer": "Torasentezde parietal plevradan geçilmez",
+    "distractors": [
+      "Plevra akciğerin şeklini verir",
+      "Viseral plevranın ağrı iletimi yoktur",
+      "Plevra yaprakları akciğerin enerji kaybını azaltır",
+      "Viseral plevra akciğeri kaplar"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 sınav soruları.txt"
+  },
+  {
+    "id": 10,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "D\n\n Mediastinitle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "correct_answer": "Cerrahi drenaj tek başına yeterlidir.",
+    "distractors": [
+      "Sepsis bulguları ile birliktedir",
+      "En sık nedeni özofagus perforasyonudur",
+      "Diş abseleri sonucu da gelişebilir",
+      "Neden özofagus perforasyonu ise ilk 24 saatte cerrahi tamir yapılır"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 sınav soruları.txt"
+  },
+  {
+    "id": 11,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "E\n\nBronkojenik kist’in özeliklerinden aşağıdakilerden hangisi değildir?",
+    "correct_answer": "Düzensiz sınırlı solid lezyonlardır",
+    "distractors": [
+      "En sık subkarinada yerleşir",
+      "Bası semptomları oluşturabilir",
+      "İntraparankimal yerleşebilir",
+      "Tanıda sıklıkla bilgisayarlı akciğer tomografisi yeterlidir"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 sınav soruları.txt"
+  },
+  {
+    "id": 12,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "D\n\nPnömotoraks tedavisinde hangisi temel ilke değildir ?",
+    "correct_answer": "O2 satürasyonunun %90’nın üstünde tutulması",
+    "distractors": [
+      "Nükslerin önlenmesi",
+      "Akciğerin tam ekspansiyonunun sağlanması",
+      "Semptomların ortadan kaldırılması",
+      "Komplikasyonların önlenmesi"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 sınav soruları.txt"
+  },
+  {
+    "id": 13,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "D\n\n\nTorasik Outlet Sendromun (TOS) da cerrahi tedavi endikasyonları içinde aşağıdakilerden hangisi yer almaz?",
+    "correct_answer": "Ulnar sinir iletim hızının 70m/sn üstünde olması",
+    "distractors": [
+      "Aksilller subklavian arterde  daralma ( bası)",
+      "Aksilller subklavian vende tromboz",
+      "Konservatif tedaviyi tolere edemeyecek kadar şiddetli semptomlar",
+      "Yeterli FTR’na rağmen,  3 ayda fazla süredir semptomların devam etmesi veya artması"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 sınav soruları.txt"
+  },
+  {
+    "id": 14,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "Aşağıdaki patolojilerden hangisi anterosüperior mediastende genellikle görülmez?",
+    "correct_answer": "Nörojenik tümör",
+    "distractors": [
+      "Retrosternal-intratorasik goitre",
+      "Germ hücreli tümörler",
+      "Lenfoma",
+      "Timoma (benign-malign)"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 yıl sonu ve bütünleme sınav soruları.txt"
+  },
+  {
+    "id": 15,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "D\n\nVATS hangi durumda uygulanabilir ?",
+    "correct_answer": "Hiçbiri",
+    "distractors": [
+      "Tek akciğer entübasyonu yapılabilen hastada",
+      "Pnömonektomili hastada",
+      "Plevra yaprakları yapışık olan hastalarda",
+      "Solunum kapasitesi çok düşük hastalarda"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 yıl sonu ve bütünleme sınav soruları.txt"
+  },
+  {
+    "id": 16,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "E\n\nPrimer spontan pnömotoraksın sebebi aşağıdakilerden hangisidir?",
+    "correct_answer": "Blep’in  rüptüre olması",
+    "distractors": [
+      "AİDS",
+      "Bıçaklanma",
+      "Tbc",
+      "Torasentez"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 yıl sonu ve bütünleme sınav soruları.txt"
+  },
+  {
+    "id": 17,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "A\n\n\nAşağıdakilerden hangisi yanlıştır ?",
+    "correct_answer": "Torasentezde parietal plevradan geçilmez",
+    "distractors": [
+      "Plevra akciğerin şeklini verir",
+      "Viseral plevranın ağrı iletimi yoktur",
+      "Plevra yaprakları akciğerin enerji kaybını azaltır",
+      "Viseral plevra akciğeri kaplar"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 yıl sonu ve bütünleme sınav soruları.txt"
+  },
+  {
+    "id": 18,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "D\n\n Mediastinitle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "correct_answer": "Cerrahi drenaj tek başına yeterlidir.",
+    "distractors": [
+      "Sepsis bulguları ile birliktedir",
+      "En sık nedeni özofagus perforasyonudur",
+      "Diş abseleri sonucu da gelişebilir",
+      "Neden özofagus perforasyonu ise ilk 24 saatte cerrahi tamir yapılır"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 yıl sonu ve bütünleme sınav soruları.txt"
+  },
+  {
+    "id": 19,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "E\n\nBronkojenik kist’in özeliklerinden aşağıdakilerden hangisi değildir?",
+    "correct_answer": "Düzensiz sınırlı solid lezyonlardır",
+    "distractors": [
+      "En sık subkarinada yerleşir",
+      "Bası semptomları oluşturabilir",
+      "İntraparankimal yerleşebilir",
+      "Tanıda sıklıkla bilgisayarlı akciğer tomografisi yeterlidir"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 yıl sonu ve bütünleme sınav soruları.txt"
+  },
+  {
+    "id": 20,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "D\n\nPnömotoraks tedavisinde hangisi temel ilke değildir ?",
+    "correct_answer": "O2 satürasyonunun %90’nın üstünde tutulması",
+    "distractors": [
+      "Nükslerin önlenmesi",
+      "Akciğerin tam ekspansiyonunun sağlanması",
+      "Semptomların ortadan kaldırılması",
+      "Komplikasyonların önlenmesi"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 yıl sonu ve bütünleme sınav soruları.txt"
+  },
+  {
+    "id": 21,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "D\n\n\nTorasik Outlet Sendromun (TOS) da cerrahi tedavi endikasyonları içinde aşağıdakilerden hangisi yer almaz?",
+    "correct_answer": "Ulnar sinir iletim hızının 70m/sn üstünde olması",
+    "distractors": [
+      "Aksilller subklavian arterde  daralma ( bası)",
+      "Aksilller subklavian vende tromboz",
+      "Konservatif tedaviyi tolere edemeyecek kadar şiddetli semptomlar",
+      "Yeterli FTR’na rağmen,  3 ayda fazla süredir semptomların devam etmesi veya artması"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 yıl sonu ve bütünleme sınav soruları.txt"
+  },
+  {
+    "id": 22,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "C\n\nMediastende hava saptanması durumunda hangi patoloji düşünülmez?",
+    "correct_answer": "Spontan pnömotoraks",
+    "distractors": [
+      "Özofagus rüptürü",
+      "Trakeabronşial rüptür",
+      "Diafragma rüptürü",
+      "Spontan pnömomediastinum"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Ekim 2020 sınav soruları.txt"
+  },
+  {
+    "id": 23,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "Aşağıdaki patolojilerden hangisinin akciğer grafisinde\nhiperlüsensi-saydamlık artışı izlenir?",
+    "correct_answer": "Pnömotoraks",
+    "distractors": [
+      "Plevral effüzyon",
+      "Pnömoni",
+      "Atelektazi",
+      "Kitle"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 sınav soruları.txt"
+  },
+  {
+    "id": 24,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "A\n\nYelken göğüs ( Flail Chest) için aşağıdaki seçeneklerden hangisi yanlıştır?\n\nA- Çok sayıda kotun çift taraflı fraktürü ile görülür.\nB- Paradoksal solunum vardır.\nC- Tanı radyolajik olarak koyulabilir.\nD- Altta yatan Ac parankimhasarının olayda herhangi bir katkısı yoktur.\nE- Ağır vakalarda entübasyon ve PEEP uygulanması gereklidir.",
+    "correct_answer": "C+D",
+    "distractors": [
+      "C+D",
+      "B+C",
+      "A+E",
+      "B+E"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 sınav soruları.txt"
+  },
+  {
+    "id": 25,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "E\n\nAşağıdakilerden hangisi yanlıştır ?",
+    "correct_answer": "Visseral plevranın ağrı iletimi vardır.",
+    "distractors": [
+      "Plevra akciğerin şeklini verir",
+      "Plevra akciğerin enerji kaybını azaltır.",
+      "Parietal plevranın ağrı iletimi vardır",
+      "Visseral plevra akciğeri kaplar"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 sınav soruları.txt"
+  },
+  {
+    "id": 26,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "B\n\nPosterior mediasten sınırlarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "correct_answer": "Kolumna vertebralisin her iki yanında ve columna vertebralis ile komşu kostalar arasındaki alandır",
+    "distractors": [
+      "Önde sternum, arkada perikard ile sınırlıdır",
+      "Üstte torasik inlet, önde sternum, aşağıda diafragma ile sınırlı olan bölgedir",
+      "Perikardın ön yüzünden başlayarak torasik vertebraların ön yüzüne kadar ulaşır",
+      "Juguler çentikle, hiatus girişi arasında, lateralde mediastinal plevra ile çevrili potansiyel boşluktur"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 sınav soruları.txt"
+  },
+  {
+    "id": 27,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "E\n\n55 yaşında erkek hasta, akşama doğru hareketlerle artan kas yorgunluğu ve gözde çift görme şikayeti ile başvurdu. \nHastanın toraks BT’sinde anterior mediastende 3x4 cm çapında kitle tespit edildi. Bu hastada en olası tanı aşağıdakilerden hangisidir?",
+    "correct_answer": "Timoma",
+    "distractors": [
+      "Nörojenik tümör",
+      "Lenfoma",
+      "Akciğer kanseri",
+      "Seminoma"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 sınav soruları.txt"
+  },
+  {
+    "id": 28,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "B\n\nHangisi Spontan pnömotoraks (Px) nedeni değildir ?",
+    "correct_answer": "Transtorasik iğne biyopsisi sonrası Pnömotoraks",
+    "distractors": [
+      "Katamenial  Pnömotoraks",
+      "Bül rüptürü",
+      "α-1 antiripsin eksikliği",
+      "Neonatal Pnömotoraks"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 sınav soruları.txt"
+  },
+  {
+    "id": 29,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "B\n\n\nBronşektazi tanısı koymada en yararlı tanı yöntemi\naşağıdakilerden hangisidir?",
+    "correct_answer": "Toraks bilgisayarlı tomografi",
+    "distractors": [
+      "Akciğer grafisi",
+      "Fiberoptik bronkoskopisi",
+      "Toraks manyetik rezonans görüntüleme",
+      "Akciğer sintigrafisi"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 sınav soruları.txt"
+  },
+  {
+    "id": 30,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "E\n\nHangisi Spontan pnömotoraks (Px) nedeni değildir ?",
+    "correct_answer": "Transtorasik iğne biyopsisi sonrası Pnömotoraks",
+    "distractors": [
+      "Katamenial  Pnömotoraks",
+      "Bül rüptürü",
+      "α-1 antiripsin eksikliği",
+      "Neonatal Pnömotoraks"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 yıl sonu ve bütünleme sınav soruları.txt"
+  },
+  {
+    "id": 31,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "B\n\n\nDaha önce hiçbir şikayeti olmayan 20 yaşında zayıf bir erkek hastada ani gelişen göğüs ağrısı, \nilerleyen nefes darlığı, soğuk terleme, hipotansiyon, taşikardi saptanıyor ve ağrı olan hemitoraksta solunum sesleri alınamıyor. \nPerküsyonda hipersonarite tespit edilen hastaya ilk yapılması gereken aşağıdakilerden hangisidir?",
+    "correct_answer": "Tüp torakostomi",
+    "distractors": [
+      "Gözlem",
+      "Acil torakotomi",
+      "Mediastinoskopi",
+      "Tomografi eşliğinde elektif torasentez"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 yıl sonu ve bütünleme sınav soruları.txt"
+  },
+  {
+    "id": 32,
+    "slide_id": null,
+    "department": "Göğüs Cerrahisi",
+    "topic": null,
+    "question_text": "B\n\nAnterior mediastende gözlenen en sık lezyon hangisidir?",
+    "correct_answer": "Timoma",
+    "distractors": [
+      "Enterik kist",
+      "Bochdalek hernisi",
+      "Teratojenik tümör",
+      "Özofagus tümörü"
+    ],
+    "explanation": null,
+    "difficulty": "MEDIUM",
+    "question_type": "PAST_PAPER",
+    "is_past_paper": 1,
+    "source_file": "Göğüs Cerrahisi\\Çıkmış\\Haziran 2020 yıl sonu ve bütünleme sınav soruları.txt"
+  },
+  {
+    "id": 33,
+    "slide_id": 2,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "İçeriğe göre, 'Ani ölüm' tanımını en iyi açıklayan ifade aşağıdakilerden hangisidir?",
+    "correct_answer": "Varolan hastalığı kendisi ve çevresi tarafından bilinmeyen kişinin çok kısa bir zamanda ölmesidir.",
+    "distractors": [
+      "Sağlıklı görünen bir kişinin birdenbire hastalanıp tanısı konmadan kısa sürede ölmesidir.",
+      "Bilinen bir hastalığı olmayan ya da bilinen hastalığı öldürücü nitelikte komplikasyon çıkaracak durumda olmayan kişinin ölü bulunmasıdır.",
+      "Geçirilen bir travmanın akut ya da geç komplikasyonu sonucu meydana gelen ölümdür."
+    ],
+    "explanation": "Sayfa 2'deki tanıma göre, Ani ölüm (Sudden), varolan hastalığı kendisi ve çevresi tarafından bilinmeyen kişinin çok kısa bir zamanda ölmesidir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 34,
+    "slide_id": 2,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "Aşağıdakilerden hangisi 'Şüpheli ölüm' tanımına uymaktadır?",
+    "correct_answer": "Bilinen bir hastalığı olmayan ya da bilinen hastalığı öldürücü nitelikte komplikasyon çıkaracak durumda olmayan kişinin ölü bulunmasıdır.",
+    "distractors": [
+      "Varolan hastalığı kendisi ve çevresi tarafından bilinmeyen kişinin çok kısa bir zamanda ölmesidir.",
+      "Sağlıklı görünen bir kişinin birdenbire hastalanıp daha tanısı konmadan çok kısa sürede ölmesidir.",
+      "Entoksikasyonlar sonucu meydana gelen ölümlerdir."
+    ],
+    "explanation": "Sayfa 3'teki tanıma göre, Şüpheli ölüm (Suspected), bilinen bir hastalığı olmayan ya da bilinen hastalığı öldürücü nitelikte komplikasyon çıkaracak durumda olmayan kişinin ölü bulunmasıdır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 35,
+    "slide_id": 2,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "Verilen içeriğe göre, ani, beklenmedik ve şüpheli ölümlerin etyolojisinde hangi durum 'bulunmamaktadır'?",
+    "correct_answer": "Kronik ve iyi tedavi edilmiş bir hastalığın uzun süreli iyileşme dönemi.",
+    "distractors": [
+      "Herhangi bir hastalığın akut ya da geç komplikasyonu.",
+      "Unutulmuş ya da önemsenmeyen bir travmanın akut ya da geç komplikasyonu.",
+      "Entoksikasyonlar."
+    ],
+    "explanation": "Sayfa 4'te etyoloji olarak hastalık komplikasyonları, travma komplikasyonları ve entoksikasyonlar belirtilmiştir. Kronik bir hastalığın iyileşme dönemi bu listede yer almamaktadır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 36,
+    "slide_id": 2,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "Kesin ve sağlıklı tanı için yapılması gerekenler arasında aşağıdakilerden hangisi 'sayılmamıştır'?",
+    "correct_answer": "Ölen kişinin geçmiş sosyal medya paylaşımlarının incelenmesi.",
+    "distractors": [
+      "Dikkatli ve ayrıntılı bir tıbbi anamnez alınması.",
+      "Dikkatli bir dış muayene ve tekniğine uygun otopsi yapılması.",
+      "Histopatolojik ve toksikolojik araştırmalar için standart tekniklerle organ ve vücut sıvılarından örnek alınması."
+    ],
+    "explanation": "Sayfa 5'te kesin ve sağlıklı tanı için tıbbi anamnez, dış muayene ve otopsi ile histopatolojik/toksikolojik örnek alımı belirtilmiştir. Sosyal medya paylaşımlarının incelenmesi bu adımlar arasında yer almamaktadır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 37,
+    "slide_id": 2,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "Otopsi bulgularına göre doğal nedenlerle meydana gelen ölümlerden biri olan 'otopside hayatın devamına kesinlikle izin vermeyecek ağırlıkta lezyon saptananlar' grubuna aşağıdaki örneklerden hangisi verilmiştir?",
+    "correct_answer": "Aort anevrizması rüptürü.",
+    "distractors": [
+      "Koroner aterosklerotik vasküler hastalık.",
+      "Entoksikasyon sonucu organ yetmezliği.",
+      "Geçirilmiş bir travmaya bağlı iç kanama."
+    ],
+    "explanation": "Sayfa 6'da doğal nedenlerle meydana gelen ölümlerin otopsi bulgularında 'hayatın devamına kesinlikle izin vermeyecek ağırlıkta lezyon saptananlar' grubuna 'Aort anevrizması rüptürü' örnek olarak verilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 38,
+    "slide_id": 930,
+    "department": "Anestezi ve Reanimasyon",
+    "topic": "Ağrı yolakları ve analjezikler II",
+    "question_text": "Ağrının sorgulanmasında aşağıdaki faktörlerden hangisi temel bir parametre olarak metinde belirtilmemiştir?",
+    "correct_answer": "Hastanın boyu ve kilosu",
+    "distractors": [
+      "Yeri ve yayılımı",
+      "Şiddeti",
+      "Arttıran ve azaltan faktörler"
+    ],
+    "explanation": "Metinde ağrının sorgulanması başlığı altında yeri, şiddeti ve arttıran/azaltan faktörler belirtilirken, hastanın boyu ve kilosu bu parametreler arasında yer almamaktadır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 39,
+    "slide_id": 930,
+    "department": "Anestezi ve Reanimasyon",
+    "topic": "Ağrı yolakları ve analjezikler II",
+    "question_text": "Ağrının şiddetini ölçmek için metinde bahsedilen yöntemler arasında aşağıdakilerden hangisi yer almaz?",
+    "correct_answer": "Manyetik Rezonans Görüntüleme (MRG)",
+    "distractors": [
+      "Vizüel Analog Skala (VAS)",
+      "Verbal Derecelendirme Skalası (VRS)",
+      "Nümerik Derecelendirme Skalası (NRS)"
+    ],
+    "explanation": "Metinde ağrı ölçüm yöntemleri olarak Vizüel Analog Skala (VAS), VRS ve NRS belirtilmiştir. MRG bir görüntüleme yöntemidir ve ağrı ölçüm skalası değildir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 40,
+    "slide_id": 930,
+    "department": "Anestezi ve Reanimasyon",
+    "topic": "Ağrı yolakları ve analjezikler II",
+    "question_text": "Metne göre, akut ağrı ile kronik ağrı arasındaki temel ayrım aşağıdakilerden hangisidir?",
+    "correct_answer": "Akut ağrı kısa süreli doku hasarı, kronik ağrı ise uzun süreli doku hasarı ile ilişkilidir.",
+    "distractors": [
+      "Akut ağrı sadece cerrahi sonrası görülürken, kronik ağrı nöropatiktir.",
+      "Akut ağrı psikolojik kökenliyken, kronik ağrı fiziksel kökenlidir.",
+      "Akut ağrı sendrom, kronik ağrı ise semptom olarak tanımlanır."
+    ],
+    "explanation": "Metinde akut ağrı 'kısa süreli doku hasarı', kronik ağrı ise 'uzun süreli doku hasarı' olarak tanımlanmıştır. Ayrıca akut ağrı semptom, kronik ağrı sendrom ile eşleştirilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 41,
+    "slide_id": 930,
+    "department": "Anestezi ve Reanimasyon",
+    "topic": "Ağrı yolakları ve analjezikler II",
+    "question_text": "Ağrı tedavisinde uygulanan cerrahi teknikler arasında aşağıdakilerden hangisi metinde belirtilmemiştir?",
+    "correct_answer": "Nörostimülasyon teknikleri",
+    "distractors": [
+      "Kordotomi",
+      "Nöroliz",
+      "Talamatomi"
+    ],
+    "explanation": "Metinde Kordotomi, Nöroliz ve Talamatomi cerrahi teknikler arasında listelenmiştir. Nörostimülasyon teknikleri ise Anestetik Teknikler başlığı altında yer almaktadır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 42,
+    "slide_id": 930,
+    "department": "Anestezi ve Reanimasyon",
+    "topic": "Ağrı yolakları ve analjezikler II",
+    "question_text": "Aşağıdaki ilaçlardan hangisi metinde belirtilen 'Non-opioid analjezikler' sınıfında yer almaz?",
+    "correct_answer": "Kodein",
+    "distractors": [
+      "Parasetamol",
+      "Metamizol",
+      "Aspirin"
+    ],
+    "explanation": "Metinde Parasetamol, Metamizol ve Aspirin non-opioid analjezikler olarak listelenirken, Kodein opioidler sınıfında yer almaktadır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 43,
+    "slide_id": 1346,
+    "department": "Dermatoloji",
+    "topic": "1. Derinin yapısı ve fonksiyonu",
+    "question_text": "Aşağıdakilerden hangisi derinin temel fonksiyonlarından biri değildir?",
+    "correct_answer": "Kan hücreleri üretimi",
+    "distractors": [
+      "Isı regülasyonu",
+      "Vitamin D üretimi",
+      "Duyusal fonksiyon"
+    ],
+    "explanation": "Verilen içerikte derinin temel fonksiyonları arasında ısı regülasyonu, Vitamin D üretimi ve duyusal fonksiyon yer alırken, kan hücreleri üretimi belirtilmemiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 44,
+    "slide_id": 1346,
+    "department": "Dermatoloji",
+    "topic": "1. Derinin yapısı ve fonksiyonu",
+    "question_text": "Aşağıdakilerden hangisi derinin ana katmanlarından biri olarak kabul edilmez?",
+    "correct_answer": "Kıllar",
+    "distractors": [
+      "Epidermis",
+      "Dermis",
+      "Subkutan yağ doku"
+    ],
+    "explanation": "Verilen içerikte derinin ana katmanları Epidermis, Dermis ve Subkutan yağ doku olarak belirtilmiştir. Kıllar ise deri ekleri arasında yer alır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 45,
+    "slide_id": 1346,
+    "department": "Dermatoloji",
+    "topic": "1. Derinin yapısı ve fonksiyonu",
+    "question_text": "Epidermiste bulunan Melanosit hücrelerinin temel görevi nedir?",
+    "correct_answer": "Melanin üretmek",
+    "distractors": [
+      "Antijen sunmak",
+      "Duysal fonksiyonu sağlamak",
+      "Keratinositler arası bağlantı kurmak"
+    ],
+    "explanation": "Sayfa 4'te belirtildiği üzere, Melanositler melanin üreten hücrelerdir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 46,
+    "slide_id": 1346,
+    "department": "Dermatoloji",
+    "topic": "1. Derinin yapısı ve fonksiyonu",
+    "question_text": "Keratinositler arası bağlantıyı sağlayan adezyon molekülü aşağıdakilerden hangisidir?",
+    "correct_answer": "Desmozom",
+    "distractors": [
+      "Hemidesmozom",
+      "Melanosit",
+      "Merkel hücresi"
+    ],
+    "explanation": "Sayfa 5'te 'Desmozom: Keratinositler arası bağlantı sağlayan adezyon molekülü' olarak tanımlanmıştır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 47,
+    "slide_id": 1346,
+    "department": "Dermatoloji",
+    "topic": "1. Derinin yapısı ve fonksiyonu",
+    "question_text": "Epidermisin tabakaları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "correct_answer": "Stratum Spinosum tabakasında en belirgin desmozom yapısı görülür.",
+    "distractors": [
+      "Stratum Bazale tabakası çekirdeksiz hücrelerden oluşur.",
+      "Stratum Lucidum tüm vücut derisinde bulunur.",
+      "Stratum Granulosum tabakasında Langerhans hücreleri yoğun olarak bulunur."
+    ],
+    "explanation": "Sayfa 6'da belirtildiği üzere, Stratum Spinosum tabakasında en belirgin desmozom yapısı bulunur. Stratum Corneum çekirdeksiz hücrelerden oluşur, Stratum Lucidum sadece palmoplantarda bulunur ve Langerhans hücreleri Stratum Spinosum tabakasındadır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 48,
+    "slide_id": 3137,
+    "department": "Fizik Tedavi ve Rehabilitasyon",
+    "topic": "11) Dirsek, El Bileği ve El Muayenesi ve Hastalıkları",
+    "question_text": "Dirsek bölgesinde menteşe tipi stabil eklemler arasında aşağıdakilerden hangisi yer almaz?",
+    "correct_answer": "Gleno-humeral eklem",
+    "distractors": [
+      "Humero-radial eklem",
+      "Humero-ulnar eklem",
+      "Radiyo-ulnar eklem"
+    ],
+    "explanation": "Metinde dirsek bölgesindeki menteşe tipi stabil eklemler olarak Humero-radial eklem, Humero-ulnar eklem ve Radiyo-ulnar eklem belirtilmiştir. Gleno-humeral eklem omuz eklemidir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 49,
+    "slide_id": 3137,
+    "department": "Fizik Tedavi ve Rehabilitasyon",
+    "topic": "11) Dirsek, El Bileği ve El Muayenesi ve Hastalıkları",
+    "question_text": "Dirsek muayenesinde hastadan öykü alınırken aşağıdaki bilgilerden hangisi genellikle sorulmaz?",
+    "correct_answer": "Göz rengi ve görme keskinliği",
+    "distractors": [
+      "Ağrının başlangıç şekli ve yayılımı",
+      "Hastanın yaşı ve mesleği",
+      "Kuvvet kaybı ve sabah tutukluğu"
+    ],
+    "explanation": "Metinde öykü alınırken hastanın yaşı, mesleği, ağrının başlangıç şekli, yayılımı, karakteri, yeri, hareket ve istirahat ile ilişkisi, hareket kısıtlılığı, süresi, travma ile ilişkisi, sabah tutukluğu, kuvvet kaybı, uyuşma ve karıncalanma gibi bilgiler sorulduğu belirtilmiştir. Göz rengi ve görme keskinliği bu kapsamda değildir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 50,
+    "slide_id": 3137,
+    "department": "Fizik Tedavi ve Rehabilitasyon",
+    "topic": "11) Dirsek, El Bileği ve El Muayenesi ve Hastalıkları",
+    "question_text": "Dirseğin anterior (kubital fossa) bölgesinde palpasyonla değerlendirilen yapılar arasında aşağıdakilerden hangisi bulunur?",
+    "correct_answer": "A. Brakialis",
+    "distractors": [
+      "Olekranon bursası",
+      "Triceps kası",
+      "Lateral epikondilit bölgesi"
+    ],
+    "explanation": "Metinde anterior Kubital fossa bölgesinde Biseps Tendonu, A. Brakialis, N. Medianus ve Muskulokutanöz sinir palpasyonla değerlendirilen yapılar olarak belirtilmiştir. Olekranon bursası ve Triceps kası posteriorda, lateral epikondilit bölgesi ise lateralde yer alır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 51,
+    "slide_id": 3137,
+    "department": "Fizik Tedavi ve Rehabilitasyon",
+    "topic": "11) Dirsek, El Bileği ve El Muayenesi ve Hastalıkları",
+    "question_text": "Dirsek ekleminin normal fleksiyon hareket açıklığı kaç derecedir?",
+    "correct_answer": "135°",
+    "distractors": [
+      "0° / -5°",
+      "90°",
+      "180°"
+    ],
+    "explanation": "Metinde dirsek fleksiyonu için normal hareket açıklığı 135° olarak belirtilmiştir. 0° / -5° ekstansiyon için, 90° ise önkol supinasyon ve pronasyonu için belirtilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 52,
+    "slide_id": 3137,
+    "department": "Fizik Tedavi ve Rehabilitasyon",
+    "topic": "11) Dirsek, El Bileği ve El Muayenesi ve Hastalıkları",
+    "question_text": "Dirsek bölgesinin nörolojik muayenesinde supinatör kas testi yapılırken hangi kaslar değerlendirilir?",
+    "correct_answer": "Biseps ve m. Spinatus",
+    "distractors": [
+      "Triceps Kası",
+      "Pronator teres ve quadratus",
+      "Brakiyoradial kas"
+    ],
+    "explanation": "Metinde nörolojik muayenede supinatör kaslar olarak Biseps ve m. Spinatus belirtilmiştir. Triceps ekstansör, Pronator teres ve quadratus pronatör, Brakiyoradial ise fleksör kaslar arasındadır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 53,
+    "slide_id": 7394,
+    "department": "Göz",
+    "topic": "Behçet Üveiti",
+    "question_text": "Behçet Hastalığı'nın genel özellikleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "correct_answer": "Tekrarlayan inflamatuar ataklarla seyreden multisistem inflamatuar bir hastalıktır.",
+    "distractors": [
+      "Nedeni tam olarak bilinen, tek sistem tutulumlu bir hastalıktır.",
+      "Sadece cildi etkileyen kronik bir enfeksiyon hastalığıdır.",
+      "Hızla ilerleyen ve sadece genetik faktörlere bağlı bir otoimmün hastalıktır."
+    ],
+    "explanation": "Metinde Behçet Hastalığı'nın nedeni tam olarak bilinmeyen, tekrarlayan inflamatuar ataklarla seyreden ve multisistem inflamatuar bir hastalık olduğu belirtilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 54,
+    "slide_id": 7394,
+    "department": "Göz",
+    "topic": "Behçet Üveiti",
+    "question_text": "Behçet Hastalığı'nın prevalansı ile ilgili aşağıdaki bilgilerden hangisi metne göre doğrudur?",
+    "correct_answer": "Türkiye, tüm dünyada en yüksek prevalansa sahip ülkedir.",
+    "distractors": [
+      "Hastalık sadece Avrupa ülkelerinde yaygın olarak görülür.",
+      "HLA-B51 geni sıklığı ile hastalık prevalansı arasında bir ilişki bulunmamaktadır.",
+      "Hastalık, İpek Yolu üzerindeki ülkelerde nadiren görülür."
+    ],
+    "explanation": "Metinde, Tarihi 'İpek Yolu' üzerinde bulunan ülkelerde yüksek prevalans olduğu ve Türkiye'nin tüm dünyada en yüksek prevalansa sahip ülke olduğu açıkça belirtilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 55,
+    "slide_id": 7394,
+    "department": "Göz",
+    "topic": "Behçet Üveiti",
+    "question_text": "Behçet Hastalığı'nın yaş ve cinsiyet özellikleri ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "correct_answer": "Erkek hastalarda oküler, vasküler ve nörolojik tutulum daha sık ve erken yaş ile erkek cinsiyet daha şiddetli hastalık seyri ile ilişkilidir.",
+    "distractors": [
+      "Hastalık en sık çocuklarda ve 50 yaş üzeri bireylerde görülür.",
+      "Kadın hastalarda genellikle oküler ve nörolojik tutulum daha şiddetlidir.",
+      "Yaş ilerledikçe hastalıkla ilişkili mortalite ve tüm bulgular artış gösterir."
+    ],
+    "explanation": "Metinde hastalığın en sık 25-35 yaşlarda görüldüğü, erkek hastalarda oküler, vasküler ve nörolojik tutulumun daha sık olduğu ve erken yaş ile erkek cinsiyetin daha şiddetli hastalık seyri ile ilişkili olduğu belirtilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 56,
+    "slide_id": 7394,
+    "department": "Göz",
+    "topic": "Behçet Üveiti",
+    "question_text": "Behçet Hastalığı'nın tanısı ile ilgili aşağıdaki ifadelerden hangisi metin içeriğine göre yanlıştır?",
+    "correct_answer": "HLA-B51 pozitifliği Behçet Hastalığı için spesifik bir tanı kriteridir.",
+    "distractors": [
+      "Tanı klinik kriterlere göre konur.",
+      "Spesifik bir laboratuvar tanı testi bulunmamaktadır.",
+      "Mevcut tanı kriterlerinde göz bulguları nonspesifik olarak kabul edilebilir."
+    ],
+    "explanation": "Metinde açıkça 'HLA-B51 pozitifliği tanı kriteri değildir.' ifadesi yer almaktadır. Diğer seçenekler metindeki doğru bilgilerdir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 57,
+    "slide_id": 7394,
+    "department": "Göz",
+    "topic": "Behçet Üveiti",
+    "question_text": "Behçet Hastalığı genellikle hangi yaş aralığında en sık görülmektedir?",
+    "correct_answer": "25-35 yaş",
+    "distractors": [
+      "Çocukluk çağı (0-18 yaş)",
+      "50 yaş üzeri",
+      "40-50 yaş"
+    ],
+    "explanation": "Metinde Behçet Hastalığı'nın en sık 25-35 yaşlarda görüldüğü, çocuklarda ve 50 yaş üzerindeki bireylerde nadir olduğu belirtilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 58,
+    "slide_id": 8112,
+    "department": "Göğüs Cerrahisi",
+    "topic": "1 Akciğer Kanseri Epidemiyoloji   Patoloji   Semptomatoloji",
+    "question_text": "Son 30 yılda akciğer kanserinde genel 5-yıllık sağkalım oranlarının yaklaşık iki katına çıkmasının temel nedeni aşağıdakilerden hangisidir?",
+    "correct_answer": "Cerrahi, kemoterapi ve radyoterapiden oluşan kombine tedavilerdeki ilerleme.",
+    "distractors": [
+      "Yalnızca cerrahi tekniklerdeki gelişmeler.",
+      "Yeni nesil antibiyotiklerin kullanımı.",
+      "Halkın sigara farkındalığının artması."
+    ],
+    "explanation": "Metinde, genel 5-yıllık sağkalım oranlarındaki artışın cerrahi, kemoterapi ve radyoterapiden oluşan kombine tedavilerdeki ilerlemeye bağlı olduğu belirtilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 59,
+    "slide_id": 8112,
+    "department": "Göğüs Cerrahisi",
+    "topic": "1 Akciğer Kanseri Epidemiyoloji   Patoloji   Semptomatoloji",
+    "question_text": "Sigara içinde bulunan kimyasal maddelerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "correct_answer": "Sigara 4000'den fazla kimyasal madde içerir ve bunların 70'ten fazlası karsinojendir.",
+    "distractors": [
+      "Sigara yalnızca 70 civarında kimyasal madde içerir, hepsi karsinojendir.",
+      "Sigara 4000'den az kimyasal madde içerir, ancak bunların çoğu karsinojendir.",
+      "Sigara dumanında bulunan karsinojenlerin çoğu polisiklik aromatik hidrokarbonlar değildir."
+    ],
+    "explanation": "Metinde sigaranın 4000'den fazla kimyasal madde içerdiği ve 70'ten fazlasının karsinojen olduğu açıkça belirtilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 60,
+    "slide_id": 8112,
+    "department": "Göğüs Cerrahisi",
+    "topic": "1 Akciğer Kanseri Epidemiyoloji   Patoloji   Semptomatoloji",
+    "question_text": "Akciğer kanseri riski açısından sigarayı bırakma ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "correct_answer": "Sigaranın bırakılmasıyla risk düşer ama hiçbir zaman hiç sigara içmemişlerin düzeyine kadar inmez.",
+    "distractors": [
+      "Sigarayı bıraktıktan 5 yıl sonra risk tamamen ortadan kalkar.",
+      "Sigarayı bırakanlarda risk, hiç sigara içmemişlerle aynı düzeye gelir.",
+      "Sigara bırakıldıktan 10 yıl sonra risk 15 kat artar."
+    ],
+    "explanation": "Metinde sigaranın bırakılmasıyla riskin düştüğü ancak hiçbir zaman hiç sigara içmemişlerin düzeyine kadar inmediği ve belirli süreler sonra bile riskin hala yüksek olduğu belirtilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 61,
+    "slide_id": 8112,
+    "department": "Göğüs Cerrahisi",
+    "topic": "1 Akciğer Kanseri Epidemiyoloji   Patoloji   Semptomatoloji",
+    "question_text": "Aşağıdaki hastalıklardan hangisi akciğer kanseri riskini artırmaz?",
+    "correct_answer": "Astım",
+    "distractors": [
+      "KOAH",
+      "Tüberküloz",
+      "Silikozis"
+    ],
+    "explanation": "Metinde KOAH, tüberküloz ve silikozisin akciğer kanseri riskini artırdığı belirtilirken, astım bu risk faktörleri arasında sayılmamıştır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 62,
+    "slide_id": 8112,
+    "department": "Göğüs Cerrahisi",
+    "topic": "1 Akciğer Kanseri Epidemiyoloji   Patoloji   Semptomatoloji",
+    "question_text": "Akciğer kanserlerinin patolojik sınıflandırmasında Küçük Hücreli Dışı Akciğer Kanserleri (KHDAK) grubunda yer alan tiplerden biri aşağıdakilerden hangisi değildir?",
+    "correct_answer": "Nöroendokrin Karsinom",
+    "distractors": [
+      "Adenokarsinoma",
+      "Yassı hücreli karsinoma",
+      "Büyük hücreli karsinoma"
+    ],
+    "explanation": "Metinde KHDAK'nin alt tipleri olarak Adenokarsinoma, Yassı hücreli karsinoma, Büyük hücreli karsinoma ve Adenosquamöz karsinoma belirtilmiştir. Nöroendokrin Karsinom bu listede yer almamaktadır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 63,
+    "slide_id": 9158,
+    "department": "Göğüs Hastalıkları",
+    "topic": "MESLEKLE İLGİLİ SOLUNUM SİSTEMİ HASTALIKLARI 19 09 2022",
+    "question_text": "“İşin yürütümü sırasında ve işin koşullarına bağlı olarak gerekli sağlık önlemlerinin alınmaması sonucu oluşan hastalık” tanımı hangi tıbbi durumu ifade etmektedir?",
+    "correct_answer": "Meslek Hastalığı",
+    "distractors": [
+      "Genetik Hastalık",
+      "Bulaşıcı Hastalık",
+      "Kronik Hastalık"
+    ],
+    "explanation": "Verilen tanım, metinde 'Meslek Hastalığı' başlığı altında açıkça belirtilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 64,
+    "slide_id": 9158,
+    "department": "Göğüs Hastalıkları",
+    "topic": "MESLEKLE İLGİLİ SOLUNUM SİSTEMİ HASTALIKLARI 19 09 2022",
+    "question_text": "Meslek astımı olgusu tanımlaması için belirtilen kriterlerden biri aşağıdakilerden hangisidir?",
+    "correct_answer": "Astım belirtilerinin işe girdikten sonra başlaması.",
+    "distractors": [
+      "Astım belirtilerinin işten ayrıldıktan hemen sonra tamamen kaybolması.",
+      "Astım belirtilerinin sadece genetik yatkınlığı olan bireylerde görülmesi.",
+      "Astım belirtilerinin mevsimsel alerjilerle ilişkili olması."
+    ],
+    "explanation": "Metinde 'Meslek Astımı Olgusu Tanımlaması' başlığı altında B maddesi olarak 'Astım belirtilerinin işe girdikten sonra başlaması' açıkça belirtilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 65,
+    "slide_id": 9158,
+    "department": "Göğüs Hastalıkları",
+    "topic": "MESLEKLE İLGİLİ SOLUNUM SİSTEMİ HASTALIKLARI 19 09 2022",
+    "question_text": "Aşağıdakilerden hangisi Akut Reaktif Hava Yolu Disfonksiyonu Sendromu (RADS) neden olan etken ajanlardan biri olarak metinde belirtilmiştir?",
+    "correct_answer": "Sülfürik asid",
+    "distractors": [
+      "Karbon monoksit",
+      "Azot dioksit",
+      "Metan gazı"
+    ],
+    "explanation": "Metinde 'RADS’a Neden Olan Etken Ajanlar' listesinde Sülfürik asid açıkça yer almaktadır. Diğer seçenekler metinde bu kategori altında belirtilmemiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 66,
+    "slide_id": 9158,
+    "department": "Göğüs Hastalıkları",
+    "topic": "MESLEKLE İLGİLİ SOLUNUM SİSTEMİ HASTALIKLARI 19 09 2022",
+    "question_text": "Akut Reaktif Hava Yolu Disfonksiyonu Sendromu (RADS) için belirtilen klinik özelliklerden biri aşağıdakilerden hangisidir?",
+    "correct_answer": "Belirtilerin en az 3 ay devam etmesi.",
+    "distractors": [
+      "Belirtilerin maruziyetten sonra 24 saat içinde tamamen düzelmesi.",
+      "Düşük konsantrasyonlarda toksik madde inhalasyonu ile başlaması.",
+      "Beraberinde spesifik bronşiyal hiporeaktivite görülmesi."
+    ],
+    "explanation": "Metinde 'Klinik Özellikler' başlığı altında 'Belirtiler en az 3 ay devam eder' ifadesi bulunmaktadır. Ayrıca başlangıcın yüksek konsantrasyon ve beraberinde NSBH+ olduğu belirtilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 67,
+    "slide_id": 9158,
+    "department": "Göğüs Hastalıkları",
+    "topic": "MESLEKLE İLGİLİ SOLUNUM SİSTEMİ HASTALIKLARI 19 09 2022",
+    "question_text": "Bisinozis'in klinik özelliklerine göre semptomların ortaya çıkış ritmi hakkında aşağıdakilerden hangisi doğrudur?",
+    "correct_answer": "Tatilden sonraki ilk iş günü, işe başladıktan 3-4 saat sonra başlar ve takip eden iş günlerinde şiddeti giderek azalır.",
+    "distractors": [
+      "Semptomlar her çalışma gününde aynı şiddette ve gün boyu devam eder.",
+      "Semptomlar işyerinden uzaklaşınca şiddetlenir ve hafta sonları zirve yapar.",
+      "Semptomlar genellikle işe başladıktan birkaç hafta sonra ortaya çıkar ve ani bir başlangıç göstermez."
+    ],
+    "explanation": "Metinde 'Bisinozis Klinik' bölümünde semptomların 'tatilden sonraki ilk iş günü, işe başladıktan 3-4 saat sonra, işle ilişkili göğüste şişkinlik/sertlik hissi, nefes darlığı' şeklinde başladığı ve 'takip eden iş günlerinde şiddeti giderek azalır' ifadesi açıkça belirtilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 68,
+    "slide_id": 9678,
+    "department": "Kalp ve Damar Cerrahisi",
+    "topic": "Aort Anevrizmaları (Sunu)",
+    "question_text": "Anevrizmaların temel tanımı aşağıdakilerden hangisidir?",
+    "correct_answer": "Damar duvarında lokalize incelmelerle meydana gelen ve damarın genişleyerek rüptüre olmasına neden olan oluşumlardır.",
+    "distractors": [
+      "Damar içinde pıhtı oluşumuyla karakterize tıkanıklıklardır.",
+      "Damar duvarının kalınlaşmasıyla ortaya çıkan daralmalardır.",
+      "Damar iltihabına bağlı olarak gelişen ağrılı şişliklerdir."
+    ],
+    "explanation": "Metinde anevrizmaların 'damar duvarında lokalize incelmeler ile meydana gelen ve damarın genişleyerek rüptüre olmasına neden olan' oluşumlar olduğu belirtilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 69,
+    "slide_id": 9678,
+    "department": "Kalp ve Damar Cerrahisi",
+    "topic": "Aort Anevrizmaları (Sunu)",
+    "question_text": "Asendan aort anevrizmalarının pek çoğunun temelinde yatan en yaygın neden aşağıdakilerden hangisidir?",
+    "correct_answer": "Media tabakasındaki kistik dejeneratif değişiklikler.",
+    "distractors": [
+      "Bakteriyel enfeksiyonlar.",
+      "Yüksek tansiyonun uzun süreli etkisi.",
+      "Doğuştan kalp kapakçığı anomalileri."
+    ],
+    "explanation": "Metinde 'Asendan aortadaki anevrizmaların pek çoğunun temelinde media tabakasındaki kistik dejeneratif değişikliklerin olması yatar' ifadesi geçmektedir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 70,
+    "slide_id": 9678,
+    "department": "Kalp ve Damar Cerrahisi",
+    "topic": "Aort Anevrizmaları (Sunu)",
+    "question_text": "Asendan aort anevrizmalarında görülen anüloaortik ektaziye bağlı olarak vakaların büyük çoğunluğunda hangi durum ortaya çıkar?",
+    "correct_answer": "Aortik kapak yetmezliği.",
+    "distractors": [
+      "Aortik kapak stenozu.",
+      "Pulmoner hipertansiyon.",
+      "Koroner arter hastalığı."
+    ],
+    "explanation": "Metinde anüloaortik ektazi için 'Buna bağlı olarak vakaların büyük çoğunluğunda aortik kapak yetmezliği söz konusudur' denilmektedir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 71,
+    "slide_id": 9678,
+    "department": "Kalp ve Damar Cerrahisi",
+    "topic": "Aort Anevrizmaları (Sunu)",
+    "question_text": "Aşağıdakilerden hangisi asendan aort anevrizmalarının nedenlerinden biri DEĞİLDİR?",
+    "correct_answer": "Diyabetik mikroanjiyopati.",
+    "distractors": [
+      "Arterioskleroz.",
+      "Aortitis.",
+      "Travma."
+    ],
+    "explanation": "Metinde asendan aort anevrizmalarının diğer nedenleri arasında arterioskleroz, aortitis, aort stenozuna bağlı poststenotik dilatasyon, enfeksiyon ve travma sayılırken, diyabetik mikroanjiyopati belirtilmemiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 72,
+    "slide_id": 9678,
+    "department": "Kalp ve Damar Cerrahisi",
+    "topic": "Aort Anevrizmaları (Sunu)",
+    "question_text": "Medial kistik nekrozlu asendan aort anevrizması hastalarında en sık ölüm nedeni nedir?",
+    "correct_answer": "Rüptür.",
+    "distractors": [
+      "Kalp yetmezliği.",
+      "Enfeksiyon.",
+      "Felç (inme)."
+    ],
+    "explanation": "Metinde 'En sık ölüm nedeni rüptürdür' ifadesi açıkça belirtilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 73,
+    "slide_id": 10134,
+    "department": "Nöroşiruji",
+    "topic": "Beyin Tümörleri Bölüm I",
+    "question_text": "Santral Sinir Sistemi (SSS) tümörlerinin sınıflandırılmasında en sık hangi kuruluşun sınıflandırması kullanılır?",
+    "correct_answer": "Dünya Sağlık Örgütü (DSÖ)",
+    "distractors": [
+      "Amerikan Kanser Cemiyeti (ACS)",
+      "Avrupa Nöroloji Federasyonları (EFNS)",
+      "Uluslararası Kanser Araştırmaları Ajansı (IARC)"
+    ],
+    "explanation": "Ders içeriğine göre, beyin tümörlerinin sınıflandırılmasında en sık Dünya Sağlık Örgütü (DSÖ) sınıflandırması kullanılır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 74,
+    "slide_id": 10134,
+    "department": "Nöroşiruji",
+    "topic": "Beyin Tümörleri Bölüm I",
+    "question_text": "Verilen ders içeriğine göre, Pilositik Astrositom'un Dünya Sağlık Örgütü (DSÖ) sınıflandırmasına göre derecesi (grade) kaçtır?",
+    "correct_answer": "WHO I",
+    "distractors": [
+      "WHO II",
+      "WHO III",
+      "WHO IV"
+    ],
+    "explanation": "Ders içeriğinde 'Pilositik Astrositom (WHO I)' olarak belirtilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 75,
+    "slide_id": 10134,
+    "department": "Nöroşiruji",
+    "topic": "Beyin Tümörleri Bölüm I",
+    "question_text": "Beyin tümörlerinde, tümörün frontal lobda yerleşmesi durumunda aşağıdaki semptomlardan hangisi görülmesi beklenir?",
+    "correct_answer": "Kişilik değişiklikleri",
+    "distractors": [
+      "Ataksi",
+      "Hemiparezi",
+      "Görme alanı defektleri"
+    ],
+    "explanation": "Ders içeriğindeki 'Semptom ve Şikayetler' bölümünde, frontal lob tümörleri için 'Kişilik değişiklikleri' belirtilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 76,
+    "slide_id": 10134,
+    "department": "Nöroşiruji",
+    "topic": "Beyin Tümörleri Bölüm I",
+    "question_text": "Santral Sinir Sistemi (SSS) tümörlerinin tanısında 'Altın Standart' olarak kabul edilen görüntüleme yöntemi aşağıdakilerden hangisidir?",
+    "correct_answer": "Kontrastlı Kranial MRI",
+    "distractors": [
+      "Kontrastlı CT",
+      "Angiografi",
+      "PET/CT"
+    ],
+    "explanation": "Ders içeriğinde tanı yöntemleri arasında 'Altın Standart Kontrastlı Kranial MRI' olarak açıkça belirtilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 77,
+    "slide_id": 10134,
+    "department": "Nöroşiruji",
+    "topic": "Beyin Tümörleri Bölüm I",
+    "question_text": "Ders içeriğine göre, Glioblastom'un Dünya Sağlık Örgütü (DSÖ) sınıflandırmasındaki derecesi (grade) aşağıdakilerden hangisidir?",
+    "correct_answer": "WHO IV",
+    "distractors": [
+      "WHO I",
+      "WHO II",
+      "WHO III"
+    ],
+    "explanation": "Ders içeriğinde 'Glioblastom (WHO IV)' olarak belirtilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 78,
+    "slide_id": 2,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "Varolan hastalığı kendisi ve çevresi tarafından bilinmeyen kişinin çok kısa bir zamanda ölmesi durumu aşağıdaki ölüm tanımlarından hangisine uyar?",
+    "correct_answer": "Ani ölüm",
+    "distractors": [
+      "Beklenmedik ölüm",
+      "Şüpheli ölüm",
+      "Doğal ölüm"
+    ],
+    "explanation": "Tanımda belirtildiği üzere, varolan hastalığı kendisi ve çevresi tarafından bilinmeyen kişinin çok kısa bir zamanda ölmesi 'Ani ölüm' olarak adlandırılır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 79,
+    "slide_id": 2,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "Aşağıdakilerden hangisi 'Şüpheli ölüm' tanımını en iyi açıklar?",
+    "correct_answer": "Bilinen bir hastalığı olmayan ya da bilinen hastalığı öldürücü nitelikte komplikasyon çıkaracak durumda olmayan kişinin ölü bulunması.",
+    "distractors": [
+      "Sağlıklı görünen bir kişinin birdenbire hastalanıp daha tanısı konmadan çok kısa sürede ölmesi.",
+      "Varolan hastalığı kendisi ve çevresi tarafından bilinmeyen kişinin çok kısa bir zamanda ölmesi.",
+      "Yaşlılığa bağlı doğal nedenlerle ölen bir kişinin durumu."
+    ],
+    "explanation": "Şüpheli ölüm tanımı, bilinen bir hastalığı olmayan ya da bilinen hastalığı öldürücü nitelikte komplikasyon çıkaracak durumda olmayan kişinin ölü bulunması olarak içerikte belirtilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 80,
+    "slide_id": 2,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "ABŞÖ (Ani, Beklenmedik, Şüpheli Ölüm) etiyolojisinde yer alan durumlardan hangisi yukarıdaki içerikte belirtilmemiştir?",
+    "correct_answer": "Kronik bir hastalığın uzun süreli tedavisinin yan etkileri.",
+    "distractors": [
+      "Geçirilen bir travmanın akut ya da geç komplikasyonu.",
+      "Entoksikasyonlar.",
+      "Herhangi bir hastalığın akut ya da geç komplikasyonu."
+    ],
+    "explanation": "Verilen içerikte ABŞÖ etiyolojisi olarak herhangi bir hastalığın akut/geç komplikasyonu, geçirilen/unutulmuş travmanın akut/geç komplikasyonu ve entoksikasyonlar belirtilmiştir. Kronik bir hastalığın uzun süreli tedavisinin yan etkileri bu listede doğrudan yer almamaktadır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 81,
+    "slide_id": 5,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "Kesin ve sağlıklı bir tanı için aşağıdaki adımlardan hangisi metinde belirtilen zorunlu adımlar arasında yer almaz?",
+    "correct_answer": "Genetik analizler için DNA örneklerinin alınması.",
+    "distractors": [
+      "Dikkatli ve ayrıntılı bir tıbbi anamnez alınması.",
+      "Dikkatli bir dış muayene ve tekniğine uygun otopsi yapılması.",
+      "Histopatolojik ve toksikolojik araştırmalar için standart tekniklerle organ ve vücut sıvılarından örneklerin alınması."
+    ],
+    "explanation": "Metinde kesin ve sağlıklı tanı için tıbbi anamnez, dış muayene, otopsi ve histopatolojik/toksikolojik örnek alımı belirtilmiştir. Genetik analizler bu kapsamda zorunlu adımlar arasında sayılmamıştır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 82,
+    "slide_id": 5,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "Otopsi bulgularına göre, doğal nedenlerle meydana gelen ölümlerde, hayatın devamına kesinlikle izin vermeyecek ağırlıkta lezyon saptanan bir olguya aşağıdaki örneklerden hangisi verilebilir?",
+    "correct_answer": "Aort anevrizması rüptürü.",
+    "distractors": [
+      "Koroner aterosklerotik vasküler hastalık.",
+      "Akut pankreatit.",
+      "Kronik karaciğer yetmezliği."
+    ],
+    "explanation": "Metinde, hayatın devamına kesinlikle izin vermeyecek ağırlıkta lezyon saptanan olgulara 'Aort anevrizması rüptürü' örnek olarak verilmiştir. Koroner aterosklerotik vasküler hastalık ise ölüme neden olabilecek ancak hayatın devamına da izin verebilecek lezyonlara örnektir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 83,
+    "slide_id": 5,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "Ani beklenmedik ölüm olgularında, anamnez, adli tahkikat, otopsi bulguları, toksikolojik ve histopatolojik incelemeler yapılmasına rağmen bazen ölüm nedeni neden açıklanamayabilir?",
+    "correct_answer": "Metinde belirtilen tüm bu incelemelere rağmen bazen ölüm nedeni açıklanamayabilir.",
+    "distractors": [
+      "Yalnızca otopsi bulguları yetersiz olduğunda ölüm nedeni açıklanamaz.",
+      "Toksikolojik incelemelerin her zaman yetersiz kalması nedeniyle.",
+      "Adli tahkikatın eksik yapılması her zaman temel nedendir."
+    ],
+    "explanation": "Metinde açıkça belirtildiği üzere, ani beklenmedik ölüm olgularında anamnez, adli tahkikat, otopsi bulguları, toksikolojik ve histopatolojik incelemelere rağmen bazen ölüm nedeni açıklanamayabilir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 84,
+    "slide_id": 11,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "Ani beklenmedik ölümlere (ABÖ) ülkeden ülkeye değişmekle beraber en sık olarak hangi sistem hastalıkları neden olmaktadır?",
+    "correct_answer": "Kardiyovasküler sistem hastalıkları",
+    "distractors": [
+      "Solunum sistemi hastalıkları",
+      "Santral sinir sistemi hastalıkları",
+      "Sindirim sistemi hastalıkları"
+    ],
+    "explanation": "Metinde açıkça belirtildiği üzere, ABÖ'lere en sık olarak kardiyovasküler sistem (KVS) hastalıkları neden olmaktadır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 85,
+    "slide_id": 11,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "Kardiyovasküler sistem hastalıklarına bağlı ani beklenmedik ölümlerde, özellikle genç yaşlarda sık etken olarak hangi patolojiler görülmektedir?",
+    "correct_answer": "Konjenital kalp hastalıkları ve romatizmal kalp hastalıkları",
+    "distractors": [
+      "Aterosklerotik ve hipertansif kalp hastalıkları",
+      "Tümörler ve ileti sistemi anomalileri",
+      "Koroner arter patolojileri ve kardiyomiyopatiler"
+    ],
+    "explanation": "Metinde, genç yaşlarda konjenital kalp hastalıkları ve romatizmal kalp hastalıklarının sık etken olduğu ifade edilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 86,
+    "slide_id": 11,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "Ani kardiak ölüm (AKÖ) tanımına göre, kardiak sebeplere bağlı olarak gelişen ve akut semptomların başlamasından sonra yaklaşık ne kadar süre içerisinde gelişen ölümdür?",
+    "correct_answer": "1 saat",
+    "distractors": [
+      "6 saat",
+      "24 saat",
+      "48 saat"
+    ],
+    "explanation": "Metinde ani kardiak ölüm, akut semptomların başlamasından sonra yaklaşık 1 saat içerisinde gelişen ölüm olarak tanımlanmıştır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 87,
+    "slide_id": 14,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "Aşağıdakilerden hangisi Santral Sinir Sistemi (SSS) hastalıklarına bağlı ani beklenmedik ölümler arasında yer alır?",
+    "correct_answer": "Serebral anevrizmalar",
+    "distractors": [
+      "Akut pankreatit",
+      "Larenks ödemi",
+      "Akciğer tüberkülozu"
+    ],
+    "explanation": "Serebral anevrizmalar, metinde SSS hastalıklarına bağlı ani beklenmedik ölümlerin nedenleri arasında açıkça belirtilmiştir. Diğer seçenekler GİS veya solunum sistemi hastalıklarına aittir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 88,
+    "slide_id": 14,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "Ani beklenmedik ölümlere yol açabilen solunum sistemi hastalıklarından biri aşağıdakilerden hangisidir?",
+    "correct_answer": "Akut epiglottit",
+    "distractors": [
+      "Mezenter trombozu",
+      "Subdural kanama",
+      "Peptik ülser"
+    ],
+    "explanation": "Akut epiglottit, metinde solunum sistemi hastalıklarına bağlı ani beklenmedik ölümler arasında sayılmaktadır. Diğer seçenekler GİS veya SSS hastalıklarına aittir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 89,
+    "slide_id": 14,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "Gastrointestinal Sistem (GİS) hastalıklarına bağlı ani beklenmedik ölümlerin nedenleri arasında aşağıdakilerden hangisi bulunur?",
+    "correct_answer": "Ösefagus varis kanamaları",
+    "distractors": [
+      "Serebral emboli",
+      "Subaraknoid kanama (SAK)",
+      "Akciğer absesi"
+    ],
+    "explanation": "Ösefagus varis kanamaları, metinde GİS hastalıklarına bağlı ani beklenmedik ölümlerin önemli nedenlerinden biri olarak geçmektedir. Diğer seçenekler SSS veya solunum sistemi hastalıklarına aittir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 90,
+    "slide_id": 17,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "Doğurgan çağda ölen kadınlarda görülen gebelik komplikasyonlarına bağlı ani ölümler arasında aşağıdakilerden hangisi yer alır?",
+    "correct_answer": "Ektopik gebelik rüptürü",
+    "distractors": [
+      "Feokromasitoma",
+      "Waterhouse-Friderichsen sendromu",
+      "Ateroskleroza bağlı kardiyak hipertrofi"
+    ],
+    "explanation": "Metinde, doğurgan çağda ölen kadınlarda gebelik komplikasyonlarına bağlı ani ölümler arasında 'ektopik gebelik rüptürü' açıkça belirtilmiştir. Diğer seçenekler farklı organ sistemlerine ait ani ölüm nedenleridir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 91,
+    "slide_id": 17,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "Böbrek ve böbreküstü bezi hastalıklarına bağlı ani ölümlerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "correct_answer": "Sürrenal bezin tümörlerinden feokromasitoma nadiren de olsa ani ölüme yol açabilir.",
+    "distractors": [
+      "Böbrek hastalıkları, ateroskleroz veya hipertansiyona yol açmadan doğrudan serebral kanamaya neden olarak ani ölüm yapabilir.",
+      "Waterhouse-Friderichsen sendromu, genellikle böbrek tümörleri ile ilişkili bir ani ölüm nedenidir.",
+      "Feokromasitoma, sürrenal bezin sepsisle sık olan kanamalarına bağlı ani ölüm nedenidir."
+    ],
+    "explanation": "Metinde, sürrenal bezin tümörleri arasında feokromasitomanın nadiren ani ölüme yol açabileceği belirtilmiştir. Böbrek hastalıkları ateroskleroz ve hipertansiyona bağlı komplikasyonlarla ani ölüme yol açar. Waterhouse-Friderichsen sendromu sepsisle ilişkili sürrenal bez kanamasıdır, tümörle değil. Feokromasitoma bir tümördür, kanama değildir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 92,
+    "slide_id": 23,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "Metne göre, bazı ölüm mekanizmalarını saptama konusunda postmortem muayenelerin bilimsel olarak hangi sınırlılığı bulunmaktadır?",
+    "correct_answer": "Yalnızca postmortem muayenelerle ölüme neden olan mekanizmaları saptamak her zaman mümkün değildir.",
+    "distractors": [
+      "Postmortem muayenelerde etken maddeyi saptamak imkansızdır.",
+      "Postmortem muayeneler her zaman yanlış sonuç verir.",
+      "Klinik tablo postmortem muayeneden daha güvenilirdir."
+    ],
+    "explanation": "Metinde açıkça belirtildiği üzere, anlatılan mekanizmalar ile ölüm meydana gelse dahi yalnızca postmortem muayenelerle ölüme neden olan bu mekanizmaları saptamak bilimsel olarak mümkün değildir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 93,
+    "slide_id": 23,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "Metinde bahsedilen, yaşamı tehdit eden vasküler kollaps ve respiratuar obstrüksiyon gelişimine yol açan kimyasal mediatörlerin salınımından sorumlu temel hücreler hangileridir?",
+    "correct_answer": "Doku mast hücreleri ve bazofiller",
+    "distractors": [
+      "Lenfositler ve makrofajlar",
+      "Nötrofiller ve eozinofiller",
+      "Trombositler ve endotel hücreleri"
+    ],
+    "explanation": "Metinde açıkça, herhangi bir madde ile karşılaşan organizmada, doku mast hücreleri ve bazofiller tarafından salınan kimyasal mediatörler etkisiyle yaşamı tehdit eden vasküler kollaps ve respiratuar obstrüksiyon geliştiği ifade edilmektedir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 94,
+    "slide_id": 23,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "Anaflaktik ölümlerde tanıya ulaşmayı mümkün kılan koşullar arasında aşağıdakilerden hangisi doğrudan belirtilmemiştir?",
+    "correct_answer": "Ölümün olay yerinde gerçekleşmesi.",
+    "distractors": [
+      "Etken maddenin spesifik olarak saptanması.",
+      "Klinik tablonun çok tipik olması.",
+      "Morfolojik bulguların tanıyı desteklemesi."
+    ],
+    "explanation": "Metinde anaflaktik ölümlerde tanıya ulaşmak için etkenin varlığı, spesifik olarak saptanması, tipik klinik tablo ve morfolojik bulguların desteklemesi gerektiği belirtilmiştir. Ölümün olay yerinde gerçekleşmesi bir tanı kriteri olarak sayılmamıştır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 95,
+    "slide_id": 27,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "Anaflaksi iddiası olan ölümlerin adli tıp incelemesinde aşağıdaki adımlardan hangisi temel yaklaşımlardan biri değildir?",
+    "correct_answer": "Sadece otopsi bulgularına dayanarak kesin tanı konulması.",
+    "distractors": [
+      "Varsa kullanılan maddenin örneklenmesi.",
+      "Klinik dosyasının incelenmesi ve fizik muayene bulgularının not edilmesi.",
+      "Tedavide bulunan hekimlerle klinik gidiş hakkında görüşülmesi."
+    ],
+    "explanation": "Metinde anaflaksi iddiası olan ölümlerde iyi bir anamnez, kullanılan madde örneği, klinik dosya incelemesi ve hekim görüşmesinin öneminden bahsedilirken, tanının *sadece* otopsi bulgularına dayanarak konulduğuna dair bir ifade bulunmamaktadır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 96,
+    "slide_id": 27,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "Anestetik ölümlerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "correct_answer": "Anestetik ölüm tanısı otopsi ile konulmaz, ancak ölümde rolü olan faktörleri ortaya koymak için otopsi yapılmalıdır.",
+    "distractors": [
+      "Anestetik ölüm sadece preoperatif fazda ortaya çıkan ölümleri kapsar.",
+      "Anestetik ölüm tanısı esas olarak otopsi bulgularına dayanır.",
+      "Hasta genel anestezi altında değilken ortaya çıkan ölümler anestetik ölüm olarak kabul edilir."
+    ],
+    "explanation": "Metinde açıkça 'Anestetik ölüm tanısı otopsi ile konulacak bir tanı değil, Hastanın dosyası ve alınan öykülerin bilimsel olarak irdelenmesi ile konulan bir tanıdır. Ancak ölenin ölümünde rolü olan faktörlerin ortaya konması amacı ile mutlaka otopsi yapılmalıdır.' ifadesi yer almaktadır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 97,
+    "slide_id": 27,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "FIGURE 5.38'de tarif edilen rüptüre serebral anevrizma sonucu gelişen patoloji aşağıdakilerden hangisidir?",
+    "correct_answer": "Beyin tabanında belirgin subaraknoid kanama.",
+    "distractors": [
+      "Akciğerde beyaz sert alanlar.",
+      "Epidural hematom.",
+      "İntraserebral hematom."
+    ],
+    "explanation": "Metinde FIGURE 5.38 için 'Bu durum beyin tabanında belirgin bir kanamaya (subaraknoid) neden oldu' ifadesi açıkça belirtilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 98,
+    "slide_id": 43,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "Alkolik bir hastada karaciğer sirozu nedeniyle özofagusta kalınlaşan damarların (varisler) rüptürü sonucu görülen ve ölüme neden olan durum aşağıdakilerden hangisidir?",
+    "correct_answer": "Aşırı kanama",
+    "distractors": [
+      "Subaraknoid kanama",
+      "Kalp duvarı rüptürü",
+      "Pulmoner tromboemboli"
+    ],
+    "explanation": "Metinde (FIGURE 5.52) belirtildiği üzere, sirozlu alkolik hastada özofagus varislerinin rüptürü aşırı kanamaya ('bled to death') ve ölüme yol açmıştır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 99,
+    "slide_id": 43,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "Miyokard enfarktüsünün (kalp krizi) metinde özellikle vurgulanan komplikasyonları arasında aşağıdakilerden hangileri yer alır?",
+    "correct_answer": "Kalp duvarı rüptürü ve kan pıhtısı oluşumu",
+    "distractors": [
+      "Subaraknoid kanama ve aort rüptürü",
+      "Özofagus varis rüptürü ve pulmoner tromboemboli",
+      "Eski kalp krizinin beyaz yara izi ve kalınlaşmış özofagus damarları"
+    ],
+    "explanation": "Metinde (FIGURE 5.7) kalp krizinin komplikasyonları olarak 'kalp duvarı rüptürü' ve 'kan pıhtısı oluşumu' açıkça belirtilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 100,
+    "slide_id": 43,
+    "department": "Adli Tıp",
+    "topic": "ABŞÖ",
+    "question_text": "Bacaklardan koparak vücutta yukarı doğru ilerleyen ve akciğerlerin büyük kan damarlarına yerleşerek göğüs ağrısına ve ani ölüme neden olan kan pıhtıları ile karakterize durumun tıbbi adı nedir?",
+    "correct_answer": "Pulmoner tromboemboli",
+    "distractors": [
+      "Subaraknoid kanama",
+      "Aort rüptürü",
+      "Özofagus varis rüptürü"
+    ],
+    "explanation": "Metinde (FIGURE 5.31) bacaklardan kopan kan pıhtılarının akciğer damarlarını tıkamasıyla oluşan ve ani ölüme yol açan durumun 'Pulmoner tromboemboli' olduğu açıklanmıştır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 101,
+    "slide_id": 47,
+    "department": "Adli Tıp",
+    "topic": "Asfiktik Ölümler",
+    "question_text": "Adli tıp uygulamasında, oksijensiz kalmanın karşılığı olarak kullanılan 'asfiksi' ifadesinin etimolojik anlamı nedir?",
+    "correct_answer": "Pulsasyon veya nabız yokluğu",
+    "distractors": [
+      "Oksijen eksikliği",
+      "Solunum durması",
+      "Dolaşım yetmezliği"
+    ],
+    "explanation": "Metinde, adli tıp uygulamasında 'oksijensiz kalma' karşılığı olarak kullanılan 'asfiksi' ifadesinin etimolojik olarak 'pulsasyon veya nabız yokluğu' anlamına geldiği belirtilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 102,
+    "slide_id": 47,
+    "department": "Adli Tıp",
+    "topic": "Asfiktik Ölümler",
+    "question_text": "Asfiksi sonucu ölümler, ayırıcı tanı bakımından önem taşıyan kaç ana grupta değerlendirilmektedir?",
+    "correct_answer": "İki",
+    "distractors": [
+      "Üç",
+      "Dört",
+      "Beş"
+    ],
+    "explanation": "Metinde asfiksi sonucu ölümlerin 'Doğal Nedenler (Hastalıklar)' ve 'Dış Etki Sonucu Gelişenler (Adli Olgular)' olmak üzere iki ana grupta değerlendirildiği açıkça belirtilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 103,
+    "slide_id": 47,
+    "department": "Adli Tıp",
+    "topic": "Asfiktik Ölümler",
+    "question_text": "Metinde belirtilen asfiksi sonucu ölümlerin iki ana grubundan biri aşağıdakilerden hangisidir?",
+    "correct_answer": "Doğal Nedenler (Hastalıklar)",
+    "distractors": [
+      "Travmatik Nedenler",
+      "Kimyasal Zehirlenmeler",
+      "Metabolik Bozukluklar"
+    ],
+    "explanation": "Metinde asfiksi sonucu ölümlerin 'Doğal Nedenler (Hastalıklar)' ve 'Dış Etki Sonucu Gelişenler (Adli Olgular)' olmak üzere iki ana grupta değerlendirildiği ifade edilmiştir. Seçenekler arasında bu gruplardan biri olan 'Doğal Nedenler (Hastalıklar)' yer almaktadır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 104,
+    "slide_id": 50,
+    "department": "Adli Tıp",
+    "topic": "Asfiktik Ölümler",
+    "question_text": "Aşağıdakilerden hangisi asfiksi sonucu ölüme yol açabilen doğal nedenlerden BİRİ DEĞİLDİR?",
+    "correct_answer": "Suda boğulma",
+    "distractors": [
+      "Akciğer hastalıkları",
+      "Kalp ve dolaşım hastalıkları",
+      "Merkezi Sinir Sistemi hastalıkları"
+    ],
+    "explanation": "Sayfa 4'te belirtilen doğal nedenler arasında akciğer, kalp ve dolaşım, merkezi sinir sistemi hastalıkları yer alırken, suda boğulma Sayfa 5'te 'Hava yerine başka bir maddenin solunması' başlığı altında dış etkiler arasında geçmektedir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 105,
+    "slide_id": 50,
+    "department": "Adli Tıp",
+    "topic": "Asfiktik Ölümler",
+    "question_text": "Asfiksi ölümüne neden olan dış etkilerden 'Havanın akciğerlere geçişinin engellenmesi' kategorisi altında aşağıdakilerden hangisi yer almaz?",
+    "correct_answer": "Ortamdaki O2 miktarının düşük olması",
+    "distractors": [
+      "Solunum girişlerinin kapanması (el, yastık vb.)",
+      "Boyna bası uygulanması (ası, ip veya el ile boğma)",
+      "Yabancı cisim aspirasyonu"
+    ],
+    "explanation": "Sayfa 5'te 'Ortamdaki O2 miktarının düşük olması' ayrı bir dış etken kategorisi olarak belirtilirken; solunum girişlerinin kapanması, boyna bası ve yabancı cisim aspirasyonu 'Havanın akciğerlere geçişinin engellenmesi' başlığı altında listelenmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 106,
+    "slide_id": 50,
+    "department": "Adli Tıp",
+    "topic": "Asfiktik Ölümler",
+    "question_text": "Asfiksiye bağlı klinik bulgular arasında aşağıdakilerden hangisi yer almaz?",
+    "correct_answer": "Kan şekeri düzeyinde belirgin artış",
+    "distractors": [
+      "Bilinç bozuklukları ve kaybı",
+      "Tonik ve klonik kasılmalar",
+      "Sfinkter kusurları"
+    ],
+    "explanation": "Sayfa 7'deki klinik bulgular arasında bilinç bozuklukları, tonik ve klonik kasılmalar, sfinkter kusurları ve kalp-solunum fonksiyonunun durması yer almaktadır. Ancak 'kan şekeri düzeyinde belirgin artış' bu listede bulunmamaktadır; kan pH ve elektrolit değişiklikleri belirtilmiştir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 107,
+    "slide_id": 54,
+    "department": "Adli Tıp",
+    "topic": "Asfiktik Ölümler",
+    "question_text": "Asfiktik ölümlerde dış muayenede görülebilen histopatolojik bulgulardan biri aşağıdakilerden hangisidir?",
+    "correct_answer": "Siyanoz",
+    "distractors": [
+      "Konjesyon ve ödem",
+      "Sağ kalp boşluklarında genişleme",
+      "Tardieu ve Paltof lekeleri"
+    ],
+    "explanation": "İçerikte 'Siyanoz' dış muayene bulguları arasında listelenmiştir. Diğer seçenekler iç muayene bulgularıdır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 108,
+    "slide_id": 54,
+    "department": "Adli Tıp",
+    "topic": "Asfiktik Ölümler",
+    "question_text": "Aşağıdakilerden hangisi asfiktik ölümlerde iç muayenede saptanan bulgulardan biridir?",
+    "correct_answer": "Sağ kalp boşluklarında genişleme",
+    "distractors": [
+      "Siyanoz",
+      "Bası izleri",
+      "Parşömenleşme"
+    ],
+    "explanation": "İçerikte 'Sağ kalp boşluklarında genişleme' iç muayene bulguları arasında belirtilmiştir. Diğer seçenekler dış muayene bulgularıdır.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  },
+  {
+    "id": 109,
+    "slide_id": 54,
+    "department": "Adli Tıp",
+    "topic": "Asfiktik Ölümler",
+    "question_text": "Asfiktik ölümlerde histopatolojik bulgularla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "correct_answer": "Dış etkinin ölüm mekanizmasını başlatması ile ölümün gerçekleşmesi arasında geçen süre uzadıkça, bulgular o ölçüde belirginleşir.",
+    "distractors": [
+      "Tüm histopatolojik bulgular sadece asfiksiye özgüdür.",
+      "Dış etkinin ölüm mekanizmasını başlatması ile ölümün gerçekleşmesi arasındaki süre, bulguların belirginliğini etkilemez.",
+      "Bası bulguları dışındaki histopatolojik bulgular, diğer ölüm nedenlerine bağlı ölümlerde kesinlikle görülmez."
+    ],
+    "explanation": "İçerikte açıkça belirtildiği üzere, 'Dış etkinin ölüm mekanizmasını başlatması ile, ölümün gerçekleşmesi arasında geçen süre ne kadar çok uzarsa, ortaya çıkan klinik ve histopatolojik bulgular o ölçüde belirgin olur.' Diğer seçenekler metinle çelişmektedir.",
+    "difficulty": "medium",
+    "question_type": "generated",
+    "is_past_paper": 0,
+    "source_file": null
+  }
+]
