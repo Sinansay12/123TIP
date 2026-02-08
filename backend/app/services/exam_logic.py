@@ -113,10 +113,10 @@ class ExamLogicService:
     
     async def _get_general_mix(self) -> dict:
         """Get a general mix of questions when no exam is scheduled."""
+        # Get all available questions (including past papers for free study)
         result = await self.db.execute(
             select(Question)
-            .where(Question.is_past_paper == False)
-            .order_by(Question.id)  # Could be randomized
+            .order_by(Question.id)
             .limit(20)
         )
         questions = result.scalars().all()
@@ -124,7 +124,7 @@ class ExamLogicService:
         return {
             "mode": "free_study",
             "days_remaining": -1,
-            "past_papers_unlocked": False,
+            "past_papers_unlocked": True,  # Always show all questions in free study
             "exam_name": None,
             "questions": list(questions)
         }
@@ -229,8 +229,7 @@ class ExamLogicService:
                 
             query = select(Question).where(Question.difficulty == difficulty)
             
-            if not include_past_papers:
-                query = query.where(Question.is_past_paper == False)
+            # Removed is_past_paper filter - show all questions regardless of type
             
             # Apply course filter if specified
             if course_id:
