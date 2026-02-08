@@ -1,0 +1,17 @@
+name: Keep Render Alive
+
+on:
+  schedule:
+    # Run every 14 minutes (Render sleeps after 15 min of inactivity)
+    - cron: '*/14 * * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Render Health Endpoint
+        run: |
+          echo "Pinging Render backend to prevent cold start..."
+          curl -fsS --retry 3 --retry-delay 5 "https://one23tip-backend.onrender.com/health" || echo "Ping failed, will retry next cycle"
+          echo "Ping completed at $(date)"
